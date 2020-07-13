@@ -28,6 +28,7 @@ h1{
 h2{
   text-align: center;
   padding: 20px;
+  margin: 30px;
   font-size: 25px;
 }
 
@@ -38,7 +39,7 @@ h3{
 }
 
 p{
-  text-align: left;
+  text-align:center;
   padding: 20px;
 }
 
@@ -48,6 +49,19 @@ p{
   height: 150px;
 }
 
-.dx{
-  display: inline-block;
+.img-down{
+  display: block;
+  background-color: #428bca;
+  border-radius: 50%;
+  padding: 30px;
+  margin: 20px;
+}
+
+.down{
+  width: 100%;
+  margin: auto;
+}
+
+hr{
+  margin: 30px;
 }
